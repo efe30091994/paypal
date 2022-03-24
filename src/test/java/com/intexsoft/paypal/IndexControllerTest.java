@@ -1,5 +1,6 @@
 package com.intexsoft.paypal;
 
+import com.intexsoft.paypal.controller.IndexController;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,5 +1,6 @@
-package com.intexsoft.paypal;
+package com.intexsoft.paypal.service;
 
+import com.intexsoft.paypal.entity.CreatedOrder;
 import com.paypal.core.PayPalEnvironment;
 import com.paypal.core.PayPalHttpClient;
 import com.paypal.http.HttpResponse;

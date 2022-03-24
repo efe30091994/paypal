@@ -1,6 +1,8 @@
-package com.intexsoft.paypal;
+package com.intexsoft.paypal.controller;
 
 
+import com.intexsoft.paypal.service.PaymentService;
+import com.intexsoft.paypal.entity.CreatedOrder;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

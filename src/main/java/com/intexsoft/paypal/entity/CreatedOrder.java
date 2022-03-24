@@ -1,4 +1,4 @@
-package com.intexsoft.paypal;
+package com.intexsoft.paypal.entity;
 
 import lombok.Data;
 
